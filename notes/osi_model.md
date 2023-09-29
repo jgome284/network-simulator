@@ -32,3 +32,23 @@ Here are some examples of PDUs at different layers of the OSI model:
 - Layer 7 (Application layer): Data
 
 ## TCP/IP Suite
+
+The TCP/IP suite (Transmission Control Protocol/Internet Protocol suite) is a collection of communication protocols used to interconnect network devices on the internet. It is also used as a communications protocol in a private computer network (an intranet or extranet).
+
+The TCP/IP suite is made up of four layers:
+
+- Application layer: This layer provides services to network applications, such as web browsers, email clients, and file transfer programs.
+- Transport layer: This layer provides reliable and unreliable end-to-end communication between applications.
+- Internet layer: This layer is responsible for routing packets between networks.
+- Link layer: This layer is responsible for transmitting packets over physical media, such as Ethernet cables or Wi-Fi networks.
+- The TCP/IP suite is a very flexible and extensible protocol suite. It is used by a wide variety of devices and networks, including personal computers, servers, routers, and switches.
+
+Here are some of the most common TCP/IP protocols:
+
+- TCP (Transmission Control Protocol): TCP is a connection-oriented protocol that provides reliable end-to-end communication between applications. TCP is used by many common network applications, such as web browsers, email clients, and file transfer programs.
+- UDP (User Datagram Protocol): UDP is a connectionless protocol that provides unreliable end-to-end communication between applications. UDP is used by many applications that require real-time performance, such as VoIP and online gaming.
+- IP (Internet Protocol): IP is the protocol that is responsible for routing packets between networks. IP is used by all TCP/IP protocols.
+- ICMP (Internet Control Message Protocol): ICMP is used to send error messages and other control messages between network devices.
+- ARP (Address Resolution Protocol): ARP is used to map IP addresses to MAC addresses.
+
+The TCP/IP suite is the foundation of the internet. It is the set of protocols that makes it possible for computers and other devices to communicate with each other across the globe.
